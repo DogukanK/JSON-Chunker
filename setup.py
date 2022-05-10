@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="JSON-Parser",
+    name="JSON-Chunker",
     author="Dogukan Ertunga Kurnaz",
     version="1.0.0",
     description="A little helper tool to split big json files into chunks",
